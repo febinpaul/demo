@@ -1,7 +1,7 @@
 {
   "userRides": [
     { "rideUniqueId" : "ride561ac407e68075fb3bab0e07be2c3756cb9b88ad7324ad1b85be514256c55ee111102017134256", "lapUniqueId" : "lap561ac407e68075fb3bab0e07be2c3756cb9b88ad7324ad1b85be514256c55ee111102017134301", "rideDetail" : { "status" : "added", "rideStartTime":"01:02:2017","duration":"5","startPlace":"ekm","endPlace":"krkty" },  "lapDetail" : { "status" : "added", "GDVideoName" : "54321" } },
-    { "rideUniqueId" : "11110", "lapUniqueId" : "01111", "rideDetail" : { "status" : "added", "rideStartTime":"02:02:2017","duration":"5","startPlace":"ekm","endPlace":"krkty" },  "lapDetail" : { "status" : "added", "GDVideoName" : "01111" } },
+    { "rideUniqueId" : "ride561ac407e68075fb3bab0e07be2c3756cb9b88ad7324ad1b85be514256c55ee111102017134256", "lapUniqueId" : "01111", "rideDetail" : { "status" : "added", "rideStartTime":"02:02:2017","duration":"5","startPlace":"ekm","endPlace":"krkty" },  "lapDetail" : { "status" : "added", "GDVideoName" : "01111" } },
     { "rideUniqueId" : "22220", "lapUniqueId" : "02222", "rideDetail" : { "status" : "added", "rideStartTime":"03:02:2017","duration":"5","startPlace":"ekm","endPlace":"krkty" },  "lapDetail" : { "status" : "added", "GDVideoName" : "02222" } },
     { "rideUniqueId" : "33330", "lapUniqueId" : "03333", "rideDetail" : { "status" : "added", "rideStartTime":"04:02:2017","duration":"5","startPlace":"ekm","endPlace":"krkty" },  "lapDetail" : { "status" : "added", "GDVideoName" : "03333" } }
       ],
