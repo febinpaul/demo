@@ -1,10 +1,136 @@
 {
   "userRides": [
-    { "id":"ride561ac407e68075fb3bab0e07be2c3756cb9b88ad7324ad1b85be514256c55ee111102017134256", "rideUniqueId" : "ride561ac407e68075fb3bab0e07be2c3756cb9b88ad7324ad1b85be514256c55ee111102017134256", "lapUniqueId" : "lap561ac407e68075fb3bab0e07be2c3756cb9b88ad7324ad1b85be514256c55ee111102017134301", "rideDetail" : { "status" : "added", "rideStartTime":"01:02:2017","duration":"5","startPlace":"ekm","endPlace":"krkty" },  "lapDetail" : { "status" : "added", "GDVideoName" : "54321" } },
-    { "rideUniqueId" : "ride561ac407e68075fb3bab0e07be2c3756cb9b88ad7324ad1b85be514256c55ee111102017134256", "lapUniqueId" : "01111", "rideDetail" : { "status" : "added", "rideStartTime":"02:02:2017","duration":"5","startPlace":"ekm","endPlace":"krkty" },  "lapDetail" : { "status" : "added", "GDVideoName" : "01111" } },
-    { "rideUniqueId" : "22220", "lapUniqueId" : "02222", "rideDetail" : { "status" : "added", "rideStartTime":"03:02:2017","duration":"5","startPlace":"ekm","endPlace":"krkty" },  "lapDetail" : { "status" : "added", "GDVideoName" : "02222" } },
-    { "rideUniqueId" : "33330", "lapUniqueId" : "03333", "rideDetail" : { "status" : "added", "rideStartTime":"04:02:2017","duration":"5","startPlace":"ekm","endPlace":"krkty" },  "lapDetail" : { "status" : "added", "GDVideoName" : "03333" } }
-      ],
+{
+    "ride_id": "ride561ac407e68075fb3bab0e07be2c3756cb9b88ad7324ad1b85be514256c55ee111102017134256",
+    "start_place": "Kannur",
+    "end_place": "Naduvil",
+    "start_time": "10:50",
+    "thumpnail": "q/q/w",
+    "start_latitude": "lat",
+    "start_longitude": "long",
+    "end_latitude": "end_lat",
+    "end_longitude": "end_long",
+    "distance_travelled": "120",
+    "ride_duration": "6",
+    "speed_avg": "60",
+    "speed_max": "120",
+    "created_date": "2017-10-13 18:34:52.764393+05:30",
+    "updated_date": "2017-10-13 18:34:58.193295+05:30",
+    "lap_details": [
+        {
+            "lap_id": "lap561ac407e68075fb3bab0e07be2c3756cb9b88ad7324ad1b85be514256c55ee111102017134301",
+            "start_time": "10:05",
+            "thumpnail": "w/w/e",
+            "video_url": "video/url/q",
+            "video_duration": "60",
+            "start_latitude": "l_lat",
+            "start_longitude": "l_long",
+            "end_latitude": "l_elat",
+            "end_longitude": "l_elong",
+            "created_date": "2017-10-13 18:34:52.764393+05:30"
+        },
+        {
+            "lap_id": "lap561ac407e68075fb3bab0e07be2c3756cb9b88ad7324ad1b85be514256c55ee111102017134388",
+            "start_time": "10:05",
+            "thumpnail": "w/w/e",
+            "video_url": "video/url/q",
+            "video_duration": "60",
+            "start_latitude": "l_lat",
+            "start_longitude": "l_long",
+            "end_latitude": "l_elat",
+            "end_longitude": "l_elong",
+            "created_date": "2017-10-13 18:34:58.193295+05:30"
+        }
+    ]
+},
+    {
+    "ride_id": "2",
+    "start_place": "Kannur",
+    "end_place": "Naduvil",
+    "start_time": "10:50",
+    "thumpnail": "q/q/w",
+    "start_latitude": "lat",
+    "start_longitude": "long",
+    "end_latitude": "end_lat",
+    "end_longitude": "end_long",
+    "distance_travelled": "120",
+    "ride_duration": "6",
+    "speed_avg": "60",
+    "speed_max": "120",
+    "created_date": "2017-10-13 18:34:52.764393+05:30",
+    "updated_date": "2017-10-13 18:34:58.193295+05:30",
+    "lap_details": [
+        {
+            "lap_id": "3",
+            "start_time": "10:05",
+            "thumpnail": "w/w/e",
+            "video_url": "video/url/q",
+            "video_duration": "60",
+            "start_latitude": "l_lat",
+            "start_longitude": "l_long",
+            "end_latitude": "l_elat",
+            "end_longitude": "l_elong",
+            "created_date": "2017-10-13 18:34:52.764393+05:30"
+        },
+        {
+            "lap_id": "4",
+            "start_time": "10:05",
+            "thumpnail": "w/w/e",
+            "video_url": "video/url/q",
+            "video_duration": "60",
+            "start_latitude": "l_lat",
+            "start_longitude": "l_long",
+            "end_latitude": "l_elat",
+            "end_longitude": "l_elong",
+            "created_date": "2017-10-13 18:34:58.193295+05:30"
+        }
+    ]
+},
+    {
+    "ride_id": "2",
+    "start_place": "Kannur",
+    "end_place": "Naduvil",
+    "start_time": "10:50",
+    "thumpnail": "q/q/w",
+    "start_latitude": "lat",
+    "start_longitude": "long",
+    "end_latitude": "end_lat",
+    "end_longitude": "end_long",
+    "distance_travelled": "120",
+    "ride_duration": "6",
+    "speed_avg": "60",
+    "speed_max": "120",
+    "created_date": "2017-10-13 18:34:52.764393+05:30",
+    "updated_date": "2017-10-13 18:34:58.193295+05:30",
+    "lap_details": [
+        {
+            "lap_id": "3",
+            "start_time": "10:05",
+            "thumpnail": "w/w/e",
+            "video_url": "video/url/q",
+            "video_duration": "60",
+            "start_latitude": "l_lat",
+            "start_longitude": "l_long",
+            "end_latitude": "l_elat",
+            "end_longitude": "l_elong",
+            "created_date": "2017-10-13 18:34:52.764393+05:30"
+        },
+        {
+            "lap_id": "4",
+            "start_time": "10:05",
+            "thumpnail": "w/w/e",
+            "video_url": "video/url/q",
+            "video_duration": "60",
+            "start_latitude": "l_lat",
+            "start_longitude": "l_long",
+            "end_latitude": "l_elat",
+            "end_longitude": "l_elong",
+            "created_date": "2017-10-13 18:34:58.193295+05:30"
+        }
+    ]
+}
+  
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
